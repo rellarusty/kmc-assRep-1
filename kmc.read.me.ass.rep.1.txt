@@ -1,0 +1,6 @@
+this is a read me for KMC
+
+the queue has been sorted to ascend Alphabeticaly 
+two lists of results were made, Denied and entry list
+the end result will Display a numerical list of people who were able to get it and those who couldnt
+the end result will display the order of the queue in descend, showing the trail of older people should enter the premesis first
