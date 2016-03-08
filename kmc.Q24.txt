@@ -1,0 +1,7 @@
+kmc ass rep 1
+
+Q24
+
+when the list of people entering the premesis nis in descending 
+showing older people entering the premesis first, the person in front of 
+Q24 is I32 therefore, 24 + 32 = 56
